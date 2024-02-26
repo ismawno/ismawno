@@ -30,3 +30,7 @@ I believe in the continuous pursuit of learning and applying theoretical knowled
 Feel free to reach out if you're interested in discussing physics, computer science, or potential collaborations:
 
 - **GitHub**: [ismawno](https://github.com/ismawno)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ismawno&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paydos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
