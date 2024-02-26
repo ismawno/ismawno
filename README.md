@@ -32,5 +32,5 @@ Feel free to reach out if you're interested in discussing physics, computer scie
 - **GitHub**: [ismawno](https://github.com/ismawno)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ismawno&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paydos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=ismawno&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismawno&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
