@@ -18,7 +18,7 @@ This first subset of projects are the ones I am currently working now and for wh
 - **[onyx](https://github.com/ismawno/onyx)**: A C++ application framework implemented with Vulkan and ImGui.
 - **[vulkit](https://github.com/ismawno/vulkit)**: A small C++ library with Vulkan setup utilities and abstractions.
 - **[toolkit](https://github.com/ismawno/toolkit)**: A small C++ library with general-purpose utilities.
-- **[flu-sim](https://github.com/ismawno/flu-sim)**: A particle-based fluid simulation implemented in C++ (mostly unfinished)
+- **[drizzle](https://github.com/ismawno/drizzle)**: A particle-based fluid simulation implemented in C++ (mostly unfinished)
 
 This second subset contains other projects worth mentioning that do not share the quality of the previous subset:
 
