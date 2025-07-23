@@ -13,7 +13,7 @@ I'm a physicist who developed an interest in computer science during my academic
 
 Below are some projects I've worked on. They reflect my interests and some of the areas I've explored in computer science and physics. This is not an exhaustive list but rather a snapshot of my work.
 
-This first subset of projects are the ones I am currently working now and for which I am the most proud of:
+This first subset of projects are the ones I am currently working on and for which I am the most proud of:
 
 - **[onyx](https://github.com/ismawno/onyx)**: A C++ application framework implemented with Vulkan and ImGui.
 - **[vulkit](https://github.com/ismawno/vulkit)**: A small C++ library with Vulkan setup utilities and abstractions.
